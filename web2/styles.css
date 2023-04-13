@@ -1,9 +1,17 @@
-h1, ul{
+html {
     font-family: 'Lora', serif;
 }
-p {
-    background-color: #E32636;
+
+img {
+    width: 500px;
 }
-span {
-    background-color: #5D8AA8;
+img.uerre {
+    width: 150px;
 }
+
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
