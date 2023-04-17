@@ -13,5 +13,20 @@ body {
     margin-left: 100px;
     margin-right: 100px;
 }
+table {
+    width: 100%;
+    text-align: center;
+     /*border-right: 5px solid red;
+    border-left: 5px double green;
+    border-top: 5px dotted yellow;
+    border-bottom: 5px dashed blue;*/
+    border-collapse: collapse;
+    border-spacing: 0 50px;
+}
+td, th {
+    border: 2px solid rgb(219, 128, 75);
+    padding: 15px;
+    margin: 100px;
+}
 
 
